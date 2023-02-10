@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(148, 177, 179);
+    margin: 1rem;
+    padding: 1rem;
+    max-width: 1000px;
+    margin: 2rem auto;
+    font-family: "Open Sans", sans-serif;
+}
+h1{
+    color: brown;
+    font-size:xx-large;
+    text-align: center;
+    font-style: italic;
+}
+nav{
+    
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 5em;
+    margin-left: 7em;
+    
+	display: inline;
+    justify-content: space-between;
+    text-align: center;
+    color: brown;
+    font-size: large;
+}
+.Restaurants{
+    display: flex;
+    flex-direction: column;
+    right: 10em;
+
+    
+
+}
+a {
+	color: orange;
+    font-size: medium;
+}
+
+img{
+    display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+	width: 250px;
+    border-radius: 20px;
+}
+
+
+
